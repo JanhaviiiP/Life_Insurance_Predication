@@ -16,7 +16,7 @@ Increased Awareness: Enhance understanding of how lifestyle choices impact insur
 
 Healthcare is a critical sector, and managing insurance costs is essential for both individuals and providers. High medical expenses without adequate coverage can lead to significant financial strain. For insurance companies, accurately predicting costs is crucial for risk management and profitability. This project addresses the need for an accurate, data-driven approach to estimating insurance costs.
 
-<ul>Methodology:</ul>
+<ul><b>Methodology:</b></ul>
 
 - Data Loading and Preprocessing: Clean data with pandas to ensure quality.
 
@@ -30,7 +30,8 @@ Healthcare is a critical sector, and managing insurance costs is essential for b
 
 - Flask for Web Interface: Create a Flask-based interface for user input and insurance cost predictions.
 
-<ul>Skills:</ul>
+<ul><b>Skills:</b></ul>
+
 - SQL: CTEs, Joins, Case, aggregate functions
 
 - Power BI: Dax,, ETL, data visualization, data modeling
