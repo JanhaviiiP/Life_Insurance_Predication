@@ -59,11 +59,15 @@ Insurance Cost Predictions: The model accurately forecasts the optimal yearly in
 
 <ul> <b>Business Recommendations:</b></ul>
 
--Incentives for Check-Ups: Provide insurance bonuses for frequent check-ups and adjust premiums for less frequent ones to promote proactive health management.
--Attract Existing Customers: Offer competitive deals to attract those with existing coverage from other companies.
--Support Weight Management: Provide free medical tests and discounted treatments for significant weight changes to boost retention and health outcomes.
--Encourage Health Monitoring: Offer incentives for regular health checks to customers dealing with weight issues.
--Target High-Risk Customers: Tailor insurance claims and benefits for those involved in high-risk activities like adventure sports, smoking, or heavy drinking.
+- Incentives for Check-Ups: Provide insurance bonuses for frequent check-ups and adjust premiums for less frequent ones to promote proactive health management.
+
+- Attract Existing Customers: Offer competitive deals to attract those with existing coverage from other companies.
+  
+- Support Weight Management: Provide free medical tests and discounted treatments for significant weight changes to boost retention and health outcomes.
+  
+- Encourage Health Monitoring: Offer incentives for regular health checks to customers dealing with weight issues.
+  
+- Target High-Risk Customers: Tailor insurance claims and benefits for those involved in high-risk activities like adventure sports, smoking, or heavy drinking.
 
 
 By implementing these strategies, you can enhance customer retention, attract new clients, and optimize insurance pricing based on health and lifestyle factors.
