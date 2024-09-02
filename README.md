@@ -1,6 +1,6 @@
 # Life Insurance Prediction System
 
-<ul>Objective</ul>
+<ul> <b>Objective</b></ul>
 
 The goal of this project is to develop a predictive model for estimating optimal insurance costs based on individual health and lifestyle data. By analyzing health and habit-related parameters.
 the model aims to:
@@ -12,7 +12,7 @@ Optimize Insurance Pricing: Enable insurance companies to set fairer premiums, b
 - Risk Reduction: Improve financial stability by predicting insurance costs more accurately.
 Increased Awareness: Enhance understanding of how lifestyle choices impact insurance premiums, encouraging proactive health management.
 
-<ul>Business Problem</ul>
+<ul><b> Business Problem</b></ul>
 
 Healthcare is a critical sector, and managing insurance costs is essential for both individuals and providers. High medical expenses without adequate coverage can lead to significant financial strain. For insurance companies, accurately predicting costs is crucial for risk management and profitability. This project addresses the need for an accurate, data-driven approach to estimating insurance costs.
 
@@ -31,21 +31,21 @@ Healthcare is a critical sector, and managing insurance costs is essential for b
 - Flask for Web Interface: Create a Flask-based interface for user input and insurance cost predictions.
 
 <ul>Skills:</ul>
--SQL: CTEs, Joins, Case, aggregate functions
+- SQL: CTEs, Joins, Case, aggregate functions
 
--Power BI: Dax,, ETL, data visualization, data modeling
+- Power BI: Dax,, ETL, data visualization, data modeling
 
--Python: Pandas, Matplotlib, Numpy, statistics, scikit-learn, flask
+- Python: Pandas, Matplotlib, Numpy, statistics, scikit-learn, flask
 
 
 
-<ul>Dashboard: </ul>
+<ul><b>Dashboard:</b> </ul>
 
 ![image](https://github.com/user-attachments/assets/a059f25f-51e7-477f-ab54-7e44291c86c1)
 
-<ul>Results & Business Recommendation:</ul>
+<ul><b>Results & Business Recommendation:</b></ul>
 
--Results:
+- Results:
 
 Model Accuracy:Gradient Boosting exhibited the highest accuracy with a model score of 95.42% and the lowest MAPE of 12.45%, making it the most reliable for predicting insurance costs.
 The model identifies four key factors influencing insurance cost:
@@ -57,7 +57,7 @@ The model identifies four key factors influencing insurance cost:
   
 Insurance Cost Predictions: The model accurately forecasts the optimal yearly insurance cost by analyzing health and lifestyle parameters, allowing for personalized premium adjustments.
 
-<ul>Business Recommendations:</ul>
+<ul> <b>Business Recommendations:</b></ul>
 
 -Incentives for Check-Ups: Provide insurance bonuses for frequent check-ups and adjust premiums for less frequent ones to promote proactive health management.
 -Attract Existing Customers: Offer competitive deals to attract those with existing coverage from other companies.
@@ -69,7 +69,7 @@ Insurance Cost Predictions: The model accurately forecasts the optimal yearly in
 By implementing these strategies, you can enhance customer retention, attract new clients, and optimize insurance pricing based on health and lifestyle factors.
 
 
-<ul>Conclusion</ul>
+<ul><b>Conclusion</b></ul>
 
 The Life Insurance Prediction System effectively addresses the need for accurate insurance cost predictions. By integrating advanced machine learning techniques, the system enhances risk management and ensures fairer premiums. Gradient Boosting's robust performance highlights the transformative potential of data science in the insurance sector, offering valuable insights and improving financial management for both providers and consumers.
 
