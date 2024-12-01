@@ -1,4 +1,4 @@
-# Life Insurance Prediction System
+# Health Insurance Prediction System
 
 <ul> <b>Objective</b></ul>
 
